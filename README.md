@@ -1,27 +1,20 @@
-# Nome do Projeto
+# 📝 Atividades em Portugol
 
-Breve descrição do que seu projeto faz e qual problema resolve.
+Este repositório contém atividades e exercícios simples desenvolvidos em **Portugol**   
+O objetivo é praticar lógica de programação e conceitos básicos como variáveis, estruturas condicionais, laços de repetição e vetores.
 
-## 🚀 Funcionalidades
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [ ] Funcionalidade futura
+## 📚 Conteúdo
+- Exercícios básicos de entrada e saída de dados
+- Estruturas condicionais (`se`, `senao`)
+- Estruturas de repetição (`enquanto`, `para`, `repita`)
+- Vetores e matrizes
+- Funções e procedimentos (quando aplicável)
 
-## 📂 Estrutura do Projeto
-Explique resumidamente a organização das pastas e arquivos.
+## 🚀 Como executar
+Você pode abrir os arquivos no:
+- **Visualg**  
+ou  
+- **Portugol Studio**  
 
-## ⚙️ Instalação
-Passos para rodar o projeto localmente:
+Basta copiar o código do exercício e colar no ambiente escolhido.
 
-```bash
-# Clonar o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Entrar na pasta
-cd seu-repositorio
-
-# Instalar dependências
-npm install  # ou outro comando
-
-# Executar
-npm start
