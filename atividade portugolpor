@@ -1,0 +1,36 @@
+programa {
+  funcao inicio() {
+    inteiro anoatual,anodenascimento,idade,total
+
+    escreva("qual seria seu ano de nascimento")
+    leia(anodenascimento)
+    escreva("qual seria o ano que estamos")
+    leia(anoatual)
+    total=anoatual-anodenascimento
+    escreva("sua idade seria ",total)
+    se(total>=60)
+    escreva("idoso")
+
+    se(total<=59 e total >=30)
+    escreva("adulto2")
+
+    se(total<=29 e total >=18)
+    escreva("adulto1")
+
+    se(total <=17 e total >=12)
+    escreva("adolecente")
+
+    se(total >=12)
+    escreva("criança")
+    
+
+
+   
+
+    
+  
+    
+  
+
+  }
+}
